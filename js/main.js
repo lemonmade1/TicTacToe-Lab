@@ -1,6 +1,3 @@
-// UTILIZED SOLUTION TO REVERSE ENGINEER
-// AND JUST PLAYED WITH STYLING TO GRASP THE LOGIC
-
 /*----- CONSTANTS -----*/
 const $lookup = {
   '1'   : 'Yellow',
